@@ -1,0 +1,20 @@
+Random Imgur
+============
+
+Written in Python2.7, you can use this to get random images from Imgur 
+(http://imgur.com)
+
+How to use
+==========
+
+To get the images to a directory of your choosing (need to edit main.py) just do:
+- python2.7 main.py -s [number of images]
+
+To get the URL of the images, just do:
+- python2.7 main.py -n [number of images]
+
+Todo
+====
+
+- use Argparse lib
+- make user choose dir in arguments

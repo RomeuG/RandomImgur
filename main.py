@@ -35,7 +35,7 @@ class randomImgur():
         if len(img) == 503:
             self.getImage()
         else:
-            with open("/home/plastico/Pictures/" + fileName + ".jpg", "wb") as f:
+            with open("testdir/" + fileName + ".jpg", "wb") as f:
                 f.write(img)
 
     def getImgLink(self):
