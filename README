@@ -18,3 +18,8 @@ Todo
 
 - use Argparse lib
 - make user choose dir in arguments
+
+Thanks
+=======
+
+- noamraph (https://github.com/noamraph) for tqdm
